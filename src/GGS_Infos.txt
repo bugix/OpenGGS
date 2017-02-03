@@ -1,0 +1,11 @@
+
+PowerUp Symbols
+-------------
+1) Fire Wheel
+2) Lightning
+3) Double Lightning
+4) Strawberries
+5) Clock
+6) Magic Bombs
+7) Water-Drop
+8) Lolli
