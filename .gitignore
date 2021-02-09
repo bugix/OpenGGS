@@ -6,7 +6,9 @@ cmake_install.cmake
 install_manifest.txt
 CTestTestfile.cmake
 build
+cmake-build-debug/
 my_stderr.txt
 my_stdout.txt
 test.txt
 openggs
+.idea/
