@@ -12,3 +12,10 @@ my_stdout.txt
 test.txt
 openggs
 .idea/
+
+subprojects/SDL2-*
+subprojects/SDL2_image-*
+subprojects/SDL2_mixer-*
+subprojects/libogg-*
+subprojects/libvorbis-*
+subprojects/packagecache/
